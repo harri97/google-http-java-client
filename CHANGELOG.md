@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.38.1](https://www.github.com/googleapis/google-http-java-client/compare/v1.38.0...v1.38.1) (2020-12-15)
+
+
+### Documentation
+
+* BOM 15.0.0 ([#1177](https://www.github.com/googleapis/google-http-java-client/issues/1177)) ([125a697](https://www.github.com/googleapis/google-http-java-client/commit/125a697c5cb5535894e46fd59e73663c50f3a6fa))
+
 ## [1.38.0](https://www.github.com/googleapis/google-http-java-client/compare/v1.37.0...v1.38.0) (2020-11-02)
 
 
